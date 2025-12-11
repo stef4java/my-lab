@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# VitePress build output
+docs/.vitepress/dist
+.vitepress/dist
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Local env files
+.env.Local
+.env.*.local
+
+# Cache
+.cache/
+.temp/
+vite.config.ts.timestamp*
+vite.config.js.timestamp*
+.vite/
+/.vitepress/cache/
