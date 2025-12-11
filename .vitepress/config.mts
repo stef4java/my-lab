@@ -4,6 +4,7 @@ import {sidebar} from "./sidebar";
 import {vitepressPluginLegend} from 'vitepress-plugin-legend'
 
 export default defineConfig({
+    base: 'my-lab',
     title: "Stef's Lab",
     description: "🌱探索自我的数字实验室✨",
     themeConfig: {
