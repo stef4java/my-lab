@@ -8,7 +8,7 @@ export default defineConfig({
     title: "Stef's Lab",
     description: "🌱探索自我的数字实验室✨",
     themeConfig: {
-        logo: 'public/avatar.png',
+        logo: '/avatar.png',
         nav,
         sidebar,
         outline: {
