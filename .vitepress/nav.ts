@@ -15,6 +15,15 @@ export const nav: DefaultTheme.NavItem[] = [
         ]
     },
     {
+        text: '博客搭建',
+        items: [
+            {
+                text: '博客搭建',
+                link: '/posts/98BlogSetup/'
+            }
+        ]
+    },
+    {
         text: '关于我',
         items: [
             {text: 'Github', link: 'https://github.com/stef4java'}
