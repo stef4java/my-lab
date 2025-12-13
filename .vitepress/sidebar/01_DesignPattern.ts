@@ -8,23 +8,23 @@ export const designPatternSidebar = {
             items: [
                 {
                     text: '单例模式',
-                    link: '/posts/01DesignPattern/001_Singleton'
+                    link: '/posts/01_DesignPattern/001_Singleton'
                 },
                 {
                     text: '工厂方法模式',
-                    link: '/posts/01DesignPattern/002_FactoryMethod'
+                    link: '/posts/01_DesignPattern/002_FactoryMethod'
                 },
                 {
                     text: '抽象工厂模式',
-                    link: '/posts/01DesignPattern/003_AbstractFactory'
+                    link: '/posts/01_DesignPattern/003_AbstractFactory'
                 },
                 {
                     text: '建造者模式',
-                    link: '/posts/01DesignPattern/004_Builder'
+                    link: '/posts/01_DesignPattern/004_Builder'
                 },
                 {
                     text: '原型模式',
-                    link: '/posts/01DesignPattern/005_Prototype'
+                    link: '/posts/01_DesignPattern/005_Prototype'
                 }
             ]
         }

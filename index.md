@@ -24,7 +24,7 @@ features:
   - icon: 🏗
     title: 设计模式
     details: 23种设计模式-Java版
-    link: /posts/01DesignPattern
+    link: /posts/01_DesignPattern
 
 ---
 

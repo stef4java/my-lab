@@ -10,7 +10,7 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
             {
                 text: '23种设计模式',
-                link: '/posts/01DesignPattern/'
+                link: '/posts/01_DesignPattern/'
             }
         ]
     },
@@ -19,7 +19,7 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
             {
                 text: '博客搭建',
-                link: '/posts/98BlogSetup/'
+                link: '/posts/98_BlogSetup/'
             }
         ]
     },
