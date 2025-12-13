@@ -10,6 +10,8 @@ sidebar: 'auto'
 
 # 文章收录
 
-[博客搭建-01.使用VitePress搭建博客并自动部署至Github Pages](001_CreateBlog.md)
+[01. 使用VitePress搭建博客并自动部署至Github Pages](001_CreateBlog.md)
 
-[博客搭建-02. VitePress 最佳实践](002_BestPractice.md)
+[02. VitePress 最佳实践](002_BestPractice.md)
+
+[03. 添加思维导图(markmap)和mermaid图表支持](003_Support_markmap_mermaid.md)

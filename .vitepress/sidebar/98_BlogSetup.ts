@@ -13,7 +13,11 @@ export const blogSetupSidebar = {
                 {
                     text: 'VitePress 最佳实践',
                     link: '/posts/98_BlogSetup/002_BestPractice'
-                }
+                },
+                {
+                    text: '思维导图和图表支持',
+                    link: '/posts/98_BlogSetup/003_Support_markmap_mermaid'
+                },
             ]
         }
     ]
