@@ -2,7 +2,7 @@
  * 设计模式专栏
  */
 export const designPatternSidebar = {
-    '/posts/01DesignPattern/': [
+    '/posts/01_DesignPattern/': [
         {
             text: '23种设计模式-java版',
             items: [
